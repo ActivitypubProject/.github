@@ -2,7 +2,7 @@
 
 #  ActivitypubProject
 
-<img src="" />
+<img src="https://avatars.githubusercontent.com/u/124411448?s=400&u=891ae2df028923c9fa60f75334f508f699c2ba79&v=4" />
 
 [简体中文](https://github.com/ActivitypubProject/.github/blob/main/profile/README-zh.md)
 
