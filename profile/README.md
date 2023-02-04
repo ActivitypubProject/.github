@@ -1,3 +1,11 @@
+<div align="center">
+
+#  ActivitypubProject
+
+<img src="" />
+
+[简体中文](https://github.com/ActivitypubProject/.github/blob/main/profile/README-zh.md)
+
 ## Hi there 👋
 
 <!--
