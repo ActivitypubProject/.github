@@ -6,6 +6,10 @@
 
 [简体中文](https://github.com/ActivitypubProject/.github/blob/main/profile/README-zh.md)
 
+Have no respect for the authority of others, for there are always contrary authorities to be found. 
+
+</div>
+
 ## Hi there 👋
 
 <!--
